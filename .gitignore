@@ -1,0 +1,6 @@
+*.__pycache__
+*.ipynb_checkpoints
+.env
+src/__pycache__/
+etl_project_venv/
+data/
