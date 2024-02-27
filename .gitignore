@@ -13,6 +13,6 @@ src_draft/
 data/
 
 # Environments
-venv/*
+etl_project_venv/*
 *.pyc
 .idea
