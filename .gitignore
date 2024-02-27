@@ -14,5 +14,6 @@ data/
 
 # Environments
 etl_project_venv/
+
 *.pyc
 .idea
