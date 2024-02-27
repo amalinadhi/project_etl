@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+*.__pycache__
+*.ipynb_checkpoints
+__pycache__/
+
+# dotenv
+.env
+
+# Devtools
+src_draft/
+
+# Interim data
+data/
+
+# Environments
+etl_project_venv/
+*.pyc
+.idea
