@@ -12,7 +12,6 @@ src_draft/
 # Interim data
 data/
 
-
 # Environments
 etl_project_venv/
 *.pyc
